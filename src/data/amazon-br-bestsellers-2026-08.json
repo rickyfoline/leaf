@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "fonte": "Lista Nielsen-PublishNews de Mais Vendidos Geral, agosto de 2026 (todo o varejo do Brasil, inclui Amazon)",
+    "fonte_url": "https://www.publishnews.com.br/ranking-nielsen/mensal/0/2026-08/0/0",
+    "gerado_em": "2026-09-29",
+    "tag_afiliado": "SUA_TAG-20",
+    "observacoes": [
+      "asin = ISBN-10 da edição impressa (regra da Amazon para livros físicos); conferir antes do lançamento",
+      "capa = URL por ASIN do CDN da Amazon, não verificada daqui; substituir pela imagem da Creators API quando houver acesso",
+      "troque tag_afiliado e rode de novo, ou substitua SUA_TAG-20 nos links"
+    ]
+  },
+  "livros": [
+    {
+      "rank": 1,
+      "titulo": "Verity",
+      "autor": "Colleen Hoover",
+      "editora": "Galera Record",
+      "isbn13": "9788501117847",
+      "asin": "8501117846",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8501117846.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8501117846?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 23395
+    },
+    {
+      "rank": 2,
+      "titulo": "Bom dia, inverno",
+      "autor": "Tamara Klink",
+      "editora": "Companhia das Letras",
+      "isbn13": "9788535944679",
+      "asin": "8535944672",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8535944672.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8535944672?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 21138
+    },
+    {
+      "rank": 3,
+      "titulo": "Eu duvido você terminar este livro",
+      "autor": "Giuliana Mafra",
+      "editora": "Outro Planeta",
+      "isbn13": "9788542243161",
+      "asin": "8542243161",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8542243161.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8542243161?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 17846
+    },
+    {
+      "rank": 4,
+      "titulo": "A cabeça do santo",
+      "autor": "Socorro Acioli",
+      "editora": "Companhia das Letras",
+      "isbn13": "9788535923698",
+      "asin": "8535923691",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8535923691.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8535923691?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 16793
+    },
+    {
+      "rank": 5,
+      "titulo": "O massacre da família Hope",
+      "autor": "Riley Sager",
+      "editora": "Intrínseca",
+      "isbn13": "9788551009833",
+      "asin": "8551009834",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8551009834.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8551009834?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 13865
+    },
+    {
+      "rank": 6,
+      "titulo": "A hora da estrela (edição comemorativa)",
+      "autor": "Clarice Lispector",
+      "editora": "Rocco",
+      "isbn13": "9786555320350",
+      "asin": "6555320354",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/6555320354.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/6555320354?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 13125
+    },
+    {
+      "rank": 7,
+      "titulo": "Jantar secreto (edição de colecionador)",
+      "autor": "Raphael Montes",
+      "editora": "Companhia das Letras",
+      "isbn13": "9788535946031",
+      "asin": "8535946039",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8535946039.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8535946039?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 11888
+    },
+    {
+      "rank": 8,
+      "titulo": "A psicologia financeira",
+      "autor": "Morgan Housel",
+      "editora": "HarperCollins",
+      "isbn13": "9786555111101",
+      "asin": "6555111100",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/6555111100.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/6555111100?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 11853
+    },
+    {
+      "rank": 9,
+      "titulo": "O acordo",
+      "autor": "Elle Kennedy",
+      "editora": "Paralela",
+      "isbn13": "9788584395712",
+      "asin": "8584395717",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8584395717.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8584395717?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 11247
+    },
+    {
+      "rank": 10,
+      "titulo": "Amar é inadiável",
+      "autor": "Socorro Acioli",
+      "editora": "Planeta",
+      "isbn13": "9788542243147",
+      "asin": "8542243145",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8542243145.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8542243145?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 11231
+    },
+    {
+      "rank": 11,
+      "titulo": "Hábitos atômicos",
+      "autor": "James Clear",
+      "editora": "Alta Life",
+      "isbn13": "9788550807560",
+      "asin": "8550807567",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8550807567.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8550807567?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 10820
+    },
+    {
+      "rank": 12,
+      "titulo": "O poder do subconsciente",
+      "autor": "Joseph Murphy",
+      "editora": "BestSeller",
+      "isbn13": "9788546501458",
+      "asin": "8546501459",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8546501459.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8546501459?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 10808
+    },
+    {
+      "rank": 13,
+      "titulo": "O Pequeno Príncipe (edição de luxo)",
+      "autor": "Antoine de Saint-Exupéry",
+      "editora": "HarperKids",
+      "isbn13": "9786559801367",
+      "asin": "6559801365",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/6559801365.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/6559801365?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 10164
+    },
+    {
+      "rank": 14,
+      "titulo": "A hipótese do amor",
+      "autor": "Ali Hazelwood",
+      "editora": "Arqueiro",
+      "isbn13": "9786555653304",
+      "asin": "6555653302",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/6555653302.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/6555653302?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 9774
+    },
+    {
+      "rank": 15,
+      "titulo": "O século dos imbecis",
+      "autor": "Valter Hugo Mãe",
+      "editora": "Biblioteca Azul",
+      "isbn13": "9786558302445",
+      "asin": "6558302446",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/6558302446.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/6558302446?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 9773
+    },
+    {
+      "rank": 16,
+      "titulo": "Melhor que nos filmes",
+      "autor": "Lynn Painter",
+      "editora": "Intrínseca",
+      "isbn13": "9786555607284",
+      "asin": "6555607289",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/6555607289.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/6555607289?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 9503
+    },
+    {
+      "rank": 17,
+      "titulo": "Oração para desaparecer",
+      "autor": "Socorro Acioli",
+      "editora": "Companhia das Letras",
+      "isbn13": "9786559215706",
+      "asin": "6559215709",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/6559215709.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/6559215709?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 9119
+    },
+    {
+      "rank": 18,
+      "titulo": "Nunca minta",
+      "autor": "Freida McFadden",
+      "editora": "Record",
+      "isbn13": "9788501923288",
+      "asin": "8501923281",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8501923281.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8501923281?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 8787
+    },
+    {
+      "rank": 19,
+      "titulo": "A paciente silenciosa",
+      "autor": "Alex Michaelides",
+      "editora": "Record",
+      "isbn13": "9788501116437",
+      "asin": "8501116432",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8501116432.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8501116432?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 8767
+    },
+    {
+      "rank": 20,
+      "titulo": "Patinando no amor",
+      "autor": "Lynn Painter",
+      "editora": "Intrínseca",
+      "isbn13": "9788551016428",
+      "asin": "8551016423",
+      "capa": "https://images-na.ssl-images-amazon.com/images/P/8551016423.01.LZZZZZZZ.jpg",
+      "link_afiliado": "https://www.amazon.com.br/dp/8551016423?tag=SUA_TAG-20",
+      "exemplares_vendidos_ago_2026": 8736
+    }
+  ]
+}
